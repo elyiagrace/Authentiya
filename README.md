@@ -1,4 +1,4 @@
-# AuthentiHash: View DevPost with video Demo @ https://devpost.com/software/ellia-morse
+# AuthentiHash
 
 ## Inspiration
 With the rise of AI-generated content in academic and commercial settings, consumers increasingly want to know if the content they encounter is authentic. Creators also need to protect their work from accusations of being AI-generated, especially since AI-created work cannot be protected by copyright law. Additionally, AI-generated text can lead to issues like misleading information, bias, and poor quality control when authors copy and paste content from language models. There must be a way to verify whether content is genuinely human-created.
@@ -26,14 +26,8 @@ We envision multiple applications for this tool, such as integration with academ
 - Supporting multiple authors and delineating individual contributions.
 
 ## Research and Further Reading
+- My devPost with video: [Ellia Morse on Devpost](https://devpost.com/software/ellia-morse)
 - Appel, Gil, et al. “[Generative AI Has an Intellectual Property Problem](https://hbr.org/2023/04/generative-ai-has-an-intellectual-property-problem).” Harvard Business Review, 11 Apr. 2023.
 - “[Author’s Rights - Author’s Rights and Copyright](https://guides.library.illinois.edu/AuthorsRights).” University of Illinois at Urbana-Champaign.
 - Brittain, Blake. “[AI-Generated Art Cannot Receive Copyrights, US Court Says](https://www.reuters.com/legal/ai-generated-art-cannot-receive-copyrights-us-court-says-2023-08-21).” Reuters, 21 Aug. 2023.
 - Hyken, Shep. “[Half of People Who Encounter Artificial Intelligence Don’t Even Realize It](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2017/06/12/half-of-people-who-encounter-artificial-intelligence-dont-even-realize-it/).” Forbes, 12 June 2017.
-
-
-“Libguides: Author’s Rights and Copyright: Author’s Rights.” Author’s Rights - Author’s Rights and Copyright - LibGuides at University of Illinois at Urbana-Champaign, guides.library.illinois.edu/AuthorsRights
-
-Brittain, Blake. “AI-Generated Art Cannot Receive Copyrights, US Court Says | Reuters.” Reuters, 21 Aug. 2023. https://www.reuters.com/legal/ai-generated-art-cannot-receive-copyrights-us-court-says-2023-08-21/
-
-Hyken, Shep. “Half of People Who Encounter Artificial Intelligence Don’t Even Realize It.” Forbes, Forbes Magazine, 12 June 2017, www.forbes.com/sites/
