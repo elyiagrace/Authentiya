@@ -1,4 +1,4 @@
-# AuthentiHash
+# Authentiya
 
 ## Inspiration
 With the rise of AI-generated content in academic and commercial settings, consumers increasingly want to know if the content they encounter is authentic. Creators also need to protect their work from accusations of being AI-generated, especially since AI-created work cannot be protected by copyright law. Additionally, AI-generated text can lead to issues like misleading information, bias, and poor quality control when authors copy and paste content from language models. There must be a way to verify whether content is genuinely human-created.
